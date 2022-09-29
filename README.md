@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Witek!
 ## 👀 I develop web projects! 
-## 🌱 I’m currently learning Ruby on Rails and JavaScript. Working in upsidelab.io on a british food marketplace - www.thefoodmarket.com (Spree based)
+## 🌱 I’m currently learning Ruby on Rails and JavaScript. Working in www.upsidelab.io on a british food marketplace - www.thefoodmarket.com (Spree based)
 ## 📫 You can contact me by writing to witoldkesek@gmail.com or DM on my IG: wiciuzpolski.
 
 <!---
