@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Witek!
 ## 👀 I develop web projects! 
-## 🌱 I’m currently learning Ruby on Rails and JavaScript. Working in [Upside](www.upsidelab.io), developing [Framebridge](framebridge.com) (Spree based)
+## 🌱 I’m currently learning Ruby on Rails and JavaScript. Working in [Upside](https://upsidelab.io/), developing [Framebridge](https://www.framebridge.com/)
 ## 📫 You can contact me by writing to witoldkesek@gmail.com or DM on my IG: [@wiciuzpolski](https://www.instagram.com/wiciuzpolski).
 
 <!---
